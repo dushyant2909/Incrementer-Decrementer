@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Incrementer-Decrementer/static/css/main.f2380fbf.css",
+    "main.js": "/Incrementer-Decrementer/static/js/main.75bfd5cf.js",
+    "index.html": "/Incrementer-Decrementer/index.html",
+    "main.f2380fbf.css.map": "/Incrementer-Decrementer/static/css/main.f2380fbf.css.map",
+    "main.75bfd5cf.js.map": "/Incrementer-Decrementer/static/js/main.75bfd5cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2380fbf.css",
+    "static/js/main.75bfd5cf.js"
+  ]
+}
